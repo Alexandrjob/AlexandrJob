@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **`entity framework`, `sql`**
 
-- 🤝 I'm open **for the internship/job opportunities as a backend developer**
+- 🤝 I'm open **for the internship/job opportunities as a junior backend developer**
 
 - 📫 How to reach me **@AlexandrHi - Telegram.**
 

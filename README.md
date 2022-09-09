@@ -1,4 +1,21 @@
 ### Hi there 👋
+
+<h1 align="center">Hi 👋, I'm Alexandr</h1>
+<h3 align="center">A passionate backend developer</h3>
+
+- 🔭 I’m currently working on [FinanceControlPhoneApp](https://github.com/Alexandrjob/FinanceControlPhoneApp)
+
+- 🌱 I’m currently learning **ASP.NET, xamarin**
+
+- 💬 Ask me about **entity framework, sql**
+
+- 📫 How to reach me **@AlexandrHi - Telegram.**
+
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> </a> </p>
+
+
 <details>
 <summary>statistics</summary>
 

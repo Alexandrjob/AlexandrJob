@@ -1,4 +1,6 @@
 ### Hi there 👋
+<details>
+<summary>statistics</summary>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
@@ -53,3 +55,4 @@ Java                     1 repo              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
  Last Updated on 08/09/2022 18:54:37 UTC
 <!--END_SECTION:waka-->
+</details>

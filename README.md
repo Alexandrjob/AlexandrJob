@@ -9,7 +9,7 @@
 
 - 🤝 I'm open **for the internship/job opportunities as a junior backend developer**
 
-- 📫 How to reach me **@AlexandrHi - Telegram.**
+- 📫 How to reach me **`sshkajob@gmail.com` or @AlexandrHi - Telegram.**
 
 - 📝 This is my portfolio [hh.ru](https://novosibirsk.hh.ru/resume/2d18c50aff0694ee010039ed1f76504352704a)
 

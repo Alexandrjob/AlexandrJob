@@ -21,9 +21,9 @@
 <summary>statistics</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-49%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2040%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/%D0%A1%20Hello%20World%20%D0%BC%D0%BD%D0%BE%D1%8E%20%D0%B1%D1%8B%D0%BB%D0%BE%20%D0%BD%D0%B0%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%BE-55%20Thousand%20%D1%81%D1%82%D1%80%D0%BE%D1%87%D0%B5%D0%BA%20%D0%BA%D0%BE%D0%B4%D0%B0-blue)
+![Lines of code](https://img.shields.io/badge/%D0%A1%20Hello%20World%20%D0%BC%D0%BD%D0%BE%D1%8E%20%D0%B1%D1%8B%D0%BB%D0%BE%20%D0%BD%D0%B0%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%BE-56%20Thousand%20%D1%81%D1%82%D1%80%D0%BE%D1%87%D0%B5%D0%BA%20%D0%BA%D0%BE%D0%B4%D0%B0-blue)
 
 📊 **На этой неделе мое время было потрачено на** 
 
@@ -47,6 +47,6 @@ Manect                   3 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 
- Last Updated on 14/09/2022 18:57:38 UTC
+ Last Updated on 15/09/2022 18:31:57 UTC
 <!--END_SECTION:waka-->
 </details>

@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [FinanceControlPhoneApp](https://github.com/Alexandrjob/FinanceControlPhoneApp)
 
-- 🌱 I’m currently learning **`ASP.NET`, `xamarin`**
+- 🌱 I’m currently learning **`ASP.NET`, `React`, `xamarin`**
 
-- 💬 Ask me about **`entity framework`, `sql`**
+- 💬 Ask me about **`entity framework`, `sql`, `xUnit`**
 
 - 🤝 I'm open **for the internship/job opportunities as a junior backend developer**
 

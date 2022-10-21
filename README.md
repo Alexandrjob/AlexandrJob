@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **`ASP.NET`, `React`, `xamarin`**
 
-- 💬 Ask me about **`entity framework`, `sql`, `xUnit`**
+- 💬 Ask me about **`dapper`, `sql`, `xUnit`**
 
 - 🤝 I'm open **for the internship/job opportunities as a junior backend developer**
 

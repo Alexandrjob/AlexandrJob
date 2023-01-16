@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alexandr</h1>
 <h3 align="center">A passionate backend developer</h3>
 
-- 🔭 I’m currently working on TaskTrackerCat
+- 🔭 I’m currently working on null
 
-- 🌱 I’m currently learning **`ASP.NET`, `React`, `xamarin`**
+- 🌱 I’m currently learning **`ASP.NET`, `React`**
 
 - 💬 Ask me about **`dapper`, `sql`, `xUnit`**
 

@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **`sshkajob@gmail.com` or @AlexandrHi - Telegram.**
 
-- 📝 This is my portfolio [hh.ru](https://novosibirsk.hh.ru/resume/e0f907f6ff0b6119770039ed1f56564e463830)
-
 <details>
 <summary>statistics</summary>
 

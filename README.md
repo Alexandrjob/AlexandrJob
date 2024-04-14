@@ -15,8 +15,6 @@
 <summary>statistics</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-370%20hrs%2027%20mins-blue)
-
 📊 **На этой неделе мое время было потрачено на** 
 
 ```text
@@ -30,6 +28,6 @@
 ```
 
 
- Last Updated on 13/04/2024 18:37:40 UTC
+ Last Updated on 14/04/2024 22:57:21 UTC
 <!--END_SECTION:waka-->
 </details>

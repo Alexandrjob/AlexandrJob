@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **`Go`, `C#`, `ASP.NET`**
 
-- 💬 Ask me about **`MSSQL or postgresql`, `dapper`, `rest API`**
+- 💬 Ask me about **`MSSQL or postgresql`, `dapper` or `gin`, `rest API`**
 
 - 🤝 I'm open **for the internship/job opportunities as a junior backend developer**
 

@@ -15,21 +15,7 @@
 <summary>statistics</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-450%20hrs-blue?style=flat)
 
-📊 **На этой неделе мое время было потрачено на** 
-
-```text
-🕑︎ Часовой Пояс: Asia/Novosibirsk
-
-💬 Языки Программирования: 
-На этой неделе активность не отслеживалась
-
-🐱‍💻 Проекты: 
-На этой неделе активность не отслеживалась
-```
-
-
- Last Updated on 22/07/2026 19:52:50 UTC
+ Last Updated on 23/07/2026 19:55:43 UTC
 <!--END_SECTION:waka-->
 </details>
